@@ -1,0 +1,35 @@
+{
+  "title": "Congeo.gr",
+  "tagline": "Video blogging about tech, gadgets and whatever is interesting!",
+  "url": "https://www.congeo.gr",
+  "author": "Congeo",
+  "email": "congeogr [at] gmail [dot] com",
+  "facebook": "https://www.facebook.com/congeo.gr",
+  "twitter": "https://twitter.com/congeo",
+  "perPage": 10,
+  "disqusShortname": "",
+  "menu": [
+    { "name": "Apple", "slug": "apple" },
+    { "name": "Auto", "slug": "auto" },
+    { "name": "Computers", "slug": "computers" },
+    { "name": "Facebook", "slug": "facebook" },
+    { "name": "Fun", "slug": "fun" },
+    { "name": "Gadgets", "slug": "gadgets" },
+    { "name": "Games", "slug": "games" },
+    { "name": "Google", "slug": "google" },
+    { "name": "Internet", "slug": "internet" },
+    { "name": "Mobile", "slug": "mobile" },
+    { "name": "Movies", "slug": "movies" },
+    { "name": "Smartphones", "slug": "smartphones" },
+    { "name": "Social", "slug": "social" },
+    { "name": "Tech", "slug": "tech" },
+    { "name": "Videos", "slug": "videos" }
+  ],
+  "links": [
+    { "title": "Το makeover του Άγιου Βασίλη", "url": "http://designerxsanta.com/" },
+    { "title": "Best Tech under $50!", "url": "http://youtu.be/CjYPLWcgAOE" },
+    { "title": "The old Pirate Bay", "url": "https://oldpiratebay.org/" },
+    { "title": "Τί χρώμα είναι τώρα;", "url": "http://whatcolourisit.scn9a.org/" },
+    { "title": "Σκύλος τρέχει ξανά, χάρη σε 3D Printer", "url": "https://www.youtube.com/watch?v=uRmoowIN8aY" }
+  ]
+}

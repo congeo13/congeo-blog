@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="el">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{% if title %}{{ title }} - {{ site.title }}{% else %}{{ site.title }} - {{ site.tagline }}{% endif %}</title>
+{% if description %}<meta name="description" content="{{ description }}">{% endif %}
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed/">
+<link rel="icon" href="/theme/logo-icon-1.png">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap">
+<link rel="stylesheet" href="/css/theme.css">
+<link rel="stylesheet" href="/css/site.css">
+</head>
+<body class="home blog custom-background">
+<div class="top1" id="top"></div>
+<div class="top-header-container">
+  <div class="top-header-wrapper">
+    <div class="top-header-search">
+      <form class="headsearch" action="/search/" method="get" role="search">
+        <input type="text" name="s" class="shead" placeholder="Search..." aria-label="Αναζήτηση">
+        <input type="submit" value=" " class="searchsubmit" aria-label="Αναζήτηση">
+      </form>
+    </div>
+    <div class="social-icons">
+      <a class="icon" href="{{ site.facebook }}" target="_blank" rel="noopener" title="Facebook"><img src="/theme/facebook.png" alt="Facebook"></a>
+      <a class="icon" href="{{ site.twitter }}" target="_blank" rel="noopener" title="Twitter"><img src="/theme/twitter.png" alt="Twitter"></a>
+      <a class="icon" href="/feed/" title="RSS"><img src="/theme/rss.png" alt="RSS"></a>
+    </div>
+    <div class="clear"></div>
+  </div>
+</div>
+<div class="header-wrapper">
+  <div class="header">
+    <div class="logo"><a href="/"><img src="/theme/logo-icon-1.png" alt="Congeo.gr"></a></div>
+    <div class="header-ad-holder">
+      <div class="menu-top"><div id="topmenu"><div id="topMenu" class="ddsmoothmenu"><ul class="menu">
+        <li><a href="/archive/">Αρχείο</a></li>
+        <li><a href="/contact/">Επικοινωνία</a></li>
+      </ul></div></div></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+  <div class="main-menu-holder"><div class="main-menu"><div class="menu-22"><div id="menu-22" class="ddsmoothmenu"><ul class="menu">
+    {%- for m in site.menu %}
+    <li><a href="/{{ m.slug }}/"{% if activeCat == m.slug %} class="active"{% endif %}>{{ m.name }}</a></li>
+    {%- endfor %}
+  </ul></div></div></div></div>
+  <div class="wrapper"></div>
+</div>
+
+<div class="container">
+  <div class="content-holder">
+    <div class="cb"></div>
+    <div class="post-wrapper-parent">
+      {{ content | safe }}
+    </div>
+    <div id="aside"><div class="sidebar">
+      <div class="widget"><div class="section widget_super_rss_reader"><h3>Congeo.gr Links</h3></div>
+        <div class="sectioncont"><div class="srr-wrap srr-style-grey">
+          {%- for l in site.links %}
+          <div class="srr-item {% if loop.index0 is divisibleby(2) %}odd{% else %}even{% endif %}"><a href="{{ l.url }}" target="_blank" rel="noopener">{{ l.title }}</a></div>
+          {%- endfor %}
+        </div></div>
+      </div>
+      <div class="widget"><div class="section widget_text"><div class="textwidget">
+        <a class="tw-follow" href="{{ site.twitter }}" target="_blank" rel="noopener"><span class="bird"></span>Follow @Congeo.gr</a>
+      </div></div></div>
+      <div class="widget"><div class="section widget_specialrecentpostsFree"><h3 class="widget-title srp-widget-title">Δείτε επίσης</h3>
+        <div class="srp-widget-container">
+          {%- for s in seealso %}
+          <div class="srp-widget-singlepost">
+            <div class="srp-thumbnail-box"><a href="{{ s.url }}"><img src="{{ s.thumb }}" alt="" loading="lazy"></a></div>
+            <div class="srp-content-box"><h4 class="srp-post-title"><a href="{{ s.url }}">{{ s.title }}</a></h4>
+              <div class="srp-post-content">{{ s.text }}<a href="{{ s.url }}">.....</a></div></div>
+          </div>
+          {%- endfor %}
+        </div>
+      </div></div>
+    </div></div>
+    <div class="cb"></div>
+  </div>
+</div>
+
+<div class="footer"><div class="fotbg"><div class="f-holder">
+  <div id="footer2"><div id="footerwrapper2"><div id="fotbot">
+    <div class="fotlogoleft"><div class="fotcopy">
+      <div id="btt"><a href="#top">Πάνω</a></div>
+      <div class="copytext">Copyright © 2011–{{ "now" | year }} Congeo.gr | All rights reserved</div>
+    </div></div>
+    <div class="cb"></div>
+  </div></div></div>
+</div></div></div>
+</body>
+</html>

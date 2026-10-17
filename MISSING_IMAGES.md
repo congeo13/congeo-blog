@@ -1,0 +1,209 @@
+# Εικόνες που λείπουν
+
+Αυτές οι εικόνες υπήρχαν στα άρθρα αλλά δεν σώθηκαν σε κανένα αρχείο. Αν βρεις κάποια (με το ίδιο ή παρόμοιο όνομα), ανέβασέ την στο άρθρο από τον editor ή στείλ' την στο Claude.
+
+- [Ο Nicolas Cage βαμπίρ;](/2012/02/12/ο-nicolas-cage-βαμπίρ/) — `nick-cage-vampire.jpg`
+- [Οι επιθέσεις των Anonymous σε Ελληνικές κυβερνητικές και πολιτικές ιστοσελίδες!](/2012/02/13/οι-επιθέσεις-των-anonymous-σε-πολλές-ελληνικέ/) — `84515-anonymous.jpeg`
+- [Το ξύλινο περιοδικό τραπέζι!](/2012/02/27/το-ξύλινο-περιοδικό-τραπέζι/) — `periodic-wooden-table.jpg`
+- [Angry Birds Land στη Φινλανδία;](/2012/03/04/angry-birds-land-στη-φινλανδία/) — `angry-birds-playground-1_610x422-150x150.jpg`
+- [Έξυπνες διαφημίσεις από την STIHL!](/2012/03/06/έξυπνες-διαφημίσεις-από-την-stihl/) — `Stihl-Ads.jpg`
+- [Angry Birds Space: Η ενημέρωση από την Nasa!](/2012/03/08/angry-birds-space-ενημέρωση-από-nasa/) — `Angry-Birds-Spaxe.jpg`
+- [The new Ipad](/2012/03/08/the-new-ipad/) — `Capture.png`
+- [Μυρμήγκια έτοιμα για φωτογράφιση!](/2012/03/20/μυρμήγκια-έτοιμα-για-φωτογράφιση/) — `1.jpg`
+- [Τυφλός οδηγεί το Self Driving Car της Google](/2012/03/30/blind-mandrives-google-self-driving-car/) — `google-self-driving-car.jpg`
+- [8-Bit Google Maps: Η φάρσα της Google για την Πρωταπριλιά!](/2012/04/01/8-bit-google-maps-η-φάρσα-της-google-για-την-πρωταπριλιά/) — `googlemapsapril.jpg`
+- [Ο Ashton Kutcher στο ρόλο του Steve Jobs](/2012/04/02/ο-ashton-kutcher-στο-ρόλο-του-steve-jobs/) — `c8aa18e70d1d.jpg`
+- [Πως ένας gamer ξεχωρίζει την πραγματική του μητέρα!](/2012/04/02/πως-ένας-gamer-ξεχωρίζει-την-πραγματική-το/) — `quick-solution2-Copy1.jpg`, `quick-solution2-Copy.jpg`
+- [Το remake του “Leisure Suit Larry” ζητάει χρηματοδότηση](/2012/04/03/το-remake-του-leisure-suit-larry-ζητάει-χρηματοδότηση/) — `leisuresuitlarry_caricature.jpg`
+- [Η πανέμορφη BMW i8 Spyder](/2012/04/04/bmw-i8-spyder/) — `bmw-i8-spyder-concept2.jpg`
+- [Μια πρώτη ματιά στο Project Glass](/2012/04/05/google-project-glass/) — `googleprojectglass.jpg`
+- [iPhone Playa Case: Η θήκη για όσους κάνουν παιχνίδι!](/2012/04/05/iphone-playa-case/) — `bec3f__original.png`
+- [Γυμνάζεται σαν Ολυμπιονίκης κι ας είναι 86 ετών!](/2012/04/05/ολυμπιονίκης-86-ετών/) — `20120331-a-86-eves-quaas-johanna.jpg`
+- [Τα Angry Birds σε σειρά κινουμένων σχεδίων](/2012/04/07/angry-birds-animated-series/) — `angry_birds_1.jpg`
+- [Προσεχώς σε iOS και Android το Max Payne Mobile](/2012/04/08/max-payne-mobile-ios-android/) — `maxpaynemobile_600x200.jpg`
+- [Lenovo IdeaTab S2109 με Android 4.0](/2012/04/09/android-lenovo-ideatab-s2109-announced/) — `IdeaPad-s2109.jpg`
+- [Το Facebook εξαγοράζει το Instagram για $1 δισεκατομμύριο](/2012/04/09/facebook-instagram-acquisition/) — `00015360_01.jpg`
+- [Σε 10,000 απολύσεις προχωράει η Sony](/2012/04/09/sony-cut-10000-jobs/) — `sony-headquarters.jpg`
+- [Apptopia: Απόκτησε και εσύ την δική σου εφαρμογή](/2012/04/10/apptopia-buy-and-sell-app/) — `apptopia2.png`
+- [Η Sony εκτιμά απώλειες $6.4 δισεκατομμυρίων](/2012/04/10/sony-double-net-loss-2011/) — `sony-headquarters-1.jpg`
+- [Ο Τιτανικός με θαλάσσια τέρατα και εκρήξεις](/2012/04/10/titanic-sea-monsters-explosions/) — `titanic.png`
+- [CloudOn για Microsoft Office και Adobe Reader στο iPad](/2012/04/11/cloudon-microsoft-office-adobe-reader-ipad/) — `cloudon.png`
+- [Το Google Plus αποκτά νέο design](/2012/04/11/google-plus-new-design/) — `3-large.png`
+- [Instagram: Η πορεία μέχρι το $1 δισεκατομμύριο [Infographic]](/2012/04/11/instagram-timeline-infographic/) — `facebook_insta_info-Copy.jpg`
+- [Απίστευτη Rube Goldberg μηχανή σπάει τα ρεκόρ [Video]](/2012/04/11/rube-goldberg-machine-breaks-world-record/) — `2426473865_9932d73ae4_z.jpg`
+- [Το Facebook ξεκινάει τα Groups για Πανεπιστήμια](/2012/04/12/facebook-launches-groups-for-schools/) — `facebook-school-600.jpg`
+- [Πως να προσγειωθείς στον Άρη [Video]](/2012/04/16/how-to-land-on-mars/) — `Untitled2.png`
+- [Φήμες για iPad mini](/2012/04/16/rumors-of-an-ipad-mini-in-china/) — `Apple-iPad.jpg`
+- [Google Drive την επόμενη εβδομάδα με 5 GB](/2012/04/17/google-drive-launch-with-5gb/) — `google-drive-logo.jpg`
+- [Η επιστροφή του Tupac στη σκηνή [Video]](/2012/04/17/tupac-returns-as-a-hologram-at-coachella/) — `16209805.jpg`
+- [Δεν είναι εύκολο να σε λένε Michael Jordan [Video]](/2012/04/18/it-sucks-to-be-michael-jordan/) — `michaeljordan.png`
+- [Μια πρώτη γεύση από το Crysis 3 [Video]](/2012/04/20/crysis-3-teaser-trailer-shows-gameplay/) — `Crysis3-bow.jpg`
+- [Η Nike φτιάχνει Ποδοσφαιρικές στολές από πλαστικά μπουκάλια [Video]](/2012/04/20/nike-makes-soccer-uniforms-from-recycled-bottles/) — `camisetas-nike-euro-2012-selecciones.jpg`
+- [PinView: Μετατρέψτε το Facebook σε Pinterest](/2012/04/20/pinview-turns-facebook-timeline-into-pinterest-board/) — `PinView-For-Facebook.jpeg`
+- [Αν ο Περιβαλλοντισμός ήταν τόσο μεγάλος όσο τα Social Media [Infographic]](/2012/04/23/if-environmentalism-were-as-big-as-social-media/) — `Green-Thumb.jpg`, `recyclebank-infographic-972.jpg`
+- [Κυκλοφόρησε επίσημα το Google Drive](/2012/04/24/google-drive-official-launch/) — `googledrive.png`
+- [Κυκλοφόρησε το Skype για Windows Phone](/2012/04/24/skype-app-for-windows-phone/) — `02-27SkypeCall_lg-1024x578.jpg`
+- [YouTube: 7 χρόνια και εκατομμύρια videos μετά](/2012/04/24/youtube-7-years-later/) — `youtube-logo.png`
+- [Barcelona vs Chelsea: Το πιο συζητημένο αθλητικό γεγονός στο Twitter, ever!](/2012/04/26/barcelona-chelsea-most-tweeted-sporting-event-ever/) — `2012-04-24_BARCELONA-CHELSEA_42.v1335303358.jpg`
+- [Το Facebook αυξάνει την ασφάλεια σου με δωρεάν Antivirus](/2012/04/26/facebook-gives-free-trial-of-antivirus/) — `facebook-security.png`
+- [Exynos 4 Quad: Ο νέος επεξεργαστής θα βρίσκεται στο Samsung Galaxy S III](/2012/04/26/samsung-exynos-4-quad-announced-for-galaxy-s-iii/) — `exynos3cpu.jpg`
+- [Cube: Παιχνίδι λαβύρινθου με το Google Maps](/2012/04/29/play-google-maps-labyrinth-game/) — `cubegooglemaps.png`, `cubegooglemaps2.png`
+- [Share & Play στο Facebook Angry Birds](/2012/05/06/share-play-on-facebook-angry-birds/) — `angry-brids-facebook-crown.jpg`
+- [Μετέτρεψε το Google Translate σε Beat Box](/2012/05/07/google-translate-makes-beat-boxes/) — `Untitled.png`
+- [Βγες live σε όλο το Google+ με το “Hangouts on Air” [Video]](/2012/05/08/google-plus-releasing-hangouts-on-air-to-all-users/) — `hangouts-on-air-1024x448.png`
+- [Μηχανικός της Google μας δείχνει μια ακόμη φωτογραφία από το Project Glass](/2012/05/10/google-project-glass-hands-free-photo/) — `Sebastian_Thrun_Project_Glass_image_large.jpg`
+- [Jetpack Joyride τώρα και στο Facebook](/2012/05/12/jetpack-joyride-τώρα-και-στο-facebook/) — `jetpackjoyride_logo.jpg`
+- [Bookbook iPhone case: Φορέστε μόνο την θήκη!](/2012/05/15/bookbook-case-wear-only-your-case/) — `Twelve-South-BookBook-Case2.jpg`
+- [The Story of Send: Το ταξίδι ενός email [Video]](/2012/05/15/google-story-of-send/) — `storyofsend.png`
+- [Diablo III: Evil is back](/2012/05/16/diablo-iii-evil-is-back/) — `Diablo-3.jpg`
+- [sFly Project: Αυτόνομα ελικοπτεράκια που φτιάχνουν 3D χάρτες [Video]](/2012/05/18/sfly-quadrotors-navigate-outdoors-all-by-themselves/) — `2ok1.jpg`
+- [Sigmud app για iphone: Προγραμμάτισε τα όνειρα σου!](/2012/05/19/sigmud-app-for-iphone-program-the-dreams-your/) — `sigmud-app.jpg`, `sigmud-app-2.jpg`
+- [Apple iTV: Η Foxconn δηλώνει ότι προετοιμάζεται για την κατασκευή της](/2012/05/20/apple-itv-foxconn-prepare-for-the-manufacture/) — `flatscreenAppleTV1.jpg`
+- [Monmouth: Η πρώτη ‘Wikipedia πόλη’ στον κόσμο [Video]](/2012/05/20/monmouth-monmouthpedia-wikipedia-town/) — `800px-QRpedia_plaque_for_Shire_Hall_2C_Monmouth_large1.jpg`
+- [BrainGate: Παράλυτη γυναίκα μετακινεί ρομποτικό χέρι μόνο με τη σκέψη της [Video]](/2012/05/21/brangate-paralyzed-woman-achives-to-move/) — `paralyzed-woman-thought-controlled-robot-braingate-cup-coffee-e1337597680465.jpg`
+- [Angry Birds Heikki: Το νέο racing game της Rovio έρχεται στις 18 Ιουνίου](/2012/05/21/rovio-to-launch-racing-themed-angry-birds-heikki-webgame-on-june-18/) — `Χωρίς-τίτλο.png`
+- [So.cl: Το νέο social network της Microsoft](/2012/05/21/so-cl-the-new-social-network-of-microsoft/) — `www.so_.cl-1.png`
+- [Leap Motion Control: 100 φορές καλύτερο από το Kinect [Video]](/2012/05/23/leap-motion-control-100-times-better-than-kinect/) — `Leap-620.jpg`
+- [Φορτίστε το laptop σας πληκτρολογώντας](/2012/05/24/charge-your-laptop-by-typing/) — `piezoelectric.jpg`
+- [Το Facebook κυκλοφόρησε το δικό του Camera app](/2012/05/25/facebook-camera-app/) — `snap1F.jpg`
+- [Το πρώτο video από το Google Project Glass](/2012/05/25/first-video-sample-from-google-project-glass/) — `googleglasssergey.png`
+- [Samsung: Η διαφήμιση της πιο sexy smart TV [Video]](/2012/05/26/samsungs-sexy-funny-ad-smart-tv/) — `samsungsmarttv.png`
+- [Οδηγός untethered jailbreak για iOS 5.1.1 με Absinthe 2.0](/2012/05/28/untethered-jailbreak-for-ios-5-1-1-absinthe-2-0/) — `iOS5.1jb.png`
+- [Coffee Joulies: Ο καφές όπως ακριβώς τον θέλετε](/2012/05/29/coffee-joulies-your-coffee-just-right/) — `joulies-2-.jpg`, `joulies-1-.jpg`, `Joulies-3.jpg`
+- [T(ether): Augmented reality σε ένα εντελώς νέο επίπεδο [Video]](/2012/05/29/tether-augmented-reality-in-a-whole-new-level/) — `d.jpg`
+- [Aisin: Έξυπνο σύστημα πλοήγησης που φροντίζει για σένα [Video]](/2012/05/30/aisin-seiki-facial-recognition-motion-tracking-heart-rate-breathing-sensor/) — `aisin.png`
+- [Η IKEA φτιάχνει την δική της camera από χαρτόνι](/2012/05/30/ikea-is-making-a-cardboard-camera/) — `tumblr_m33hod4fhd1qljgpxo1_660.jpeg`
+- [Samsung Galaxy S III: Ο κυρίαρχος των Android smartphones](/2012/05/31/samsung-galaxy-s-iii-the-best-android-smartphone/) — `samsung-galaxy-siii-xl1.jpg`
+- [Guitar Pee: Δημιουργήστε το δικό σας mPee3](/2012/06/01/guitar-pee-urinal-be-a-bathroom-rock-god/) — `guitarpee_610x346.jpg`
+- [Schedule posts για τα Facebook Pages](/2012/06/01/schedule-posts-facebook-pages/) — `facebook-admin-roles-schedule-post-pages-01.jpg`
+- [Διαθέσιμα για όλους τα Windows 8 Release Preview [Download Link]](/2012/06/01/windows-8-release-preview-download-available-for-all/) — `Windows-8-Release-Preview.png`
+- [Η εξέλιξη της Nokia [Infographic]](/2012/06/02/evolution-nokia-infographic/) — `nokia-logo.bmp`
+- [Επίσημη έκδοση Flipboard BETA για Android](/2012/06/02/flipboard-beta-apk/) — `120510092351Fliboard-for-droid.png`
+- [Το E-shop.gr κυκλοφόρησε το δικό του iPhone app](/2012/06/04/eshop-gr-iphone-app/) — `eshop.gr1_.jpg`
+- [OpenROV: Το μίνι Submarine που σας επιτρέπει να εξερευνήσετε τον βυθό](/2012/06/04/openrov-mini-submarine-kit-lets-you-explore-depths/) — `OpenROV-Project.jpg`
+- [Level 10 M Mouse: Η Thermaltake συναντά την BMW Designworks](/2012/06/05/level-10-m-mouse-thermaltake-bmw-designworks/) — `level10mouse.jpg`
+- [XBOX SmartGlass: Η νέα εφαρμογή της Microsoft για ασύρματο έλεγχο](/2012/06/05/xbox-smartglass-microsoft-new-app-for-wireless-control/) — `Xbox-Smart-Glass.jpg`
+- [Joggobot: Ο ιπτάμενος σύντροφος για το τρέξιμο [Video]](/2012/06/06/joggobot-flying-robotic-running-companion/) — `joggobot-1.jpg`
+- [Η Renault αποκαλύπτει το Alpine A110-50 concept car [Video]](/2012/06/06/renault-unveils-alpine-a110-50-concept-car/) — `alpine1.jpg`
+- [Layar app: Η εφαρμογή που δίνει τέλος στα QR codes [Video]](/2012/06/07/laya-app-gives-an-end-to-qr-codes/) — `layar.jpg`
+- [Blackberry: Το όραμα της εταιρείας για τις συσκευές του μέλλοντος [Video]](/2012/06/08/blackberrys-crazy-amazing-vision-future/) — `BlackBerry-Future-620x340.png`
+- [Κυκλοφόρησε επίσημα το Facebook App Center](/2012/06/08/facebook-app-center/) — `homepage-large.jpg`
+- [Το Google Maps προσθέτει 3D τοπία, offline χάρτες και το Street View Trekker](/2012/06/08/google-maps-3d/) — `original.jpg`
+- [Το Kinsight για Kinect βρίσκει τα αντικείμενα που ψάχνεις](/2012/06/10/kinsight-kinect-tracks-household-items/) — `KinectforWindows-Sensor_angled_h_cL.jpeg_large_verge_medium_landscape.jpg`
+- [Arctic Flight: Το τέλειο iPad stand για το αεροπλάνο](/2012/06/11/arctic-flight-an-ipad-airplane-stand/) — `arcticflight.jpg`
+- [Microsoft on{X}, κάνει τα Android κινητά εξυπνότερα](/2012/06/11/microsoft-onx-android-app/) — `microsoft-on-x.jpg`
+- [U Transfer USB Stick: Μεταφέρετε αρχεία χωρίς την χρήση υπολογιστή](/2012/06/11/u-transfer-usb-stick/) — `U-Transfer-1.jpg`
+- [WWDC 2012: Όλες οι ανακοινώσεις της Apple](/2012/06/12/apple-wwdc-2012-news/) — `wwdc2012-june-11-15.jpg`
+- [Scanbox: Μετατρέψτε το smartphone σε φορητό scanner](/2012/06/12/scanbox-smartphone-scanner/) — `scanbox.jpg`, `scanbox-4.jpg`, `scanbox-3.jpg`, `scanbox-2.jpg`
+- [Real Life Portal Gun: Όταν το παιχνίδι γίνεται πραγματικότητα [Video]](/2012/06/13/real-life-portal-gun-video/) — `portal-111.jpg`
+- [Gnarboard Trail Rider: Ηλεκτροκίνητο Skateboard που πιάνει τα 45 χλμ σε 1.9 δευτερόλεπτα [Video]](/2012/06/14/gnarboard-trail-rider-electric-skateboard-0-28mph-in-1-9-seconds-video/) — `Gnarboard-Trail-Rider1.jpg`
+- [Samsung TecTiles: Αυτοκόλλητα που εκτελούν καθημερινές λειτουργίες του κινητού](/2012/06/14/samsungs-tectiles-put-nfc-anywhere-you-want/) — `samsung-tectiles2.jpg`
+- [Booster Brolly: Η ομπρέλα που φορτίζει και ενισχύει το σήμα του κινητού](/2012/06/15/booster-brolly-umbrella/) — `vodafone-booster-brolly-charges-phone-improves-signal-0.jpg`
+- [Angry Birds Seasons: Piglantis, νέα levels τώρα με υποβρύχια δράση [Video]](/2012/06/16/angry-birds-seasons-piglanti-update-underwater/) — `Angry-Birds-Seasons-Piglantis-Wallpaper.jpg`
+- [i Pedelec concept: Το πρώτο ηλεκτρικό ποδήλατο της BMW](/2012/06/18/bmw-i-pedelec-concept-bicycle/) — `bmw-i-pedelec_3.jpg`
+- [Το Facebook εξαγόρασε το Face.com](/2012/06/18/facebook-acquires-face-com/) — `face.com-facebook1.png`
+- [Explore London 2012: Η σελίδα του Facebook για τους Ολυμπιακούς Αγώνες](/2012/06/18/facebook-page-explore-london-2012/) — `USA1.png`
+- [Το LiquiGlide δίνει τέλος στις μάχες με την Ketchup](/2012/06/18/liquiglide-ketchup-solution/) — `German-researchers-create-smudge-repellent-coating-from-candle-soot1.jpg`
+- [AirBurr: Το αυτόνομο ιπτάμενο robot, που πέφτει και ανορθώνεται χωρίς βοήθεια [Video]](/2012/06/19/airburr-autonomous-flying-robot/) — `flying-1.jpg`
+- [Το νέο διαφημιστικό της Coca-Cola τραβηγμένο από κάμερες ασφαλείας](/2012/06/19/internationalcoca-cola-security-camera-ad-shows-us-some-of-lifes-lighter-moments/) — `coca-cola.jpg`
+- [Surface: Η νέα σειρά tablet της Microsoft](/2012/06/19/microsoft-surface-tablets-unveiled/) — `surface_0-100000546-orig.jpg`
+- [FBike: Τσέχοι κατασκευάζουν ιπτάμενο ποδήλατο](/2012/06/20/electric-flying-bike/) — `fbike-101.jpg`
+- [Ρομποτικό δάχτυλο αισθάνεται περισσότερο από το ανθρώπινο [Video]](/2012/06/20/robotic-finger/) — `robotic-finger.png`
+- [Τι ακριβώς είναι το Pinterest; [Infographic]](/2012/06/21/what-is-pinterest-infographic/) — `pinterest-logo6.jpg`
+- [Διαθέσιμο το Belkin WeMo: Ελέγξτε τις συσκευές σας εξ αποστάσεως](/2012/06/22/belkin-wemo-available/) — `belkin-wemo.jpg`
+- [Sony και Panasonic ανακοίνωσαν συνεργασία για τεχνολογία OLED TV](/2012/06/25/sony-and-panasonic-oled-tv-partnership/) — `sonyoledfirst-1l.jpg`
+- [Το Facebook άλλαξε την διεύθυνση του email σου](/2012/06/26/facebook-email-change/) — `facebookemail.jpg`, `facebookemail2.jpg`
+- [Instaglasses: Το concept του Γερμανού σχεδιαστή Markus Gerke, για το Instagram](/2012/06/26/instaglasses-concept/) — `Instaglasses.png`, `instaglasses-concept-.png`, `Instaglasses-Amaro.png`
+- [Η Google και η Lego κυκλοφόρησαν 3D εφαρμογή κατασκευής Lego για Chrome](/2012/06/26/lego-and-google-chrome-3d-building-app/) — `2532355414_a46bf966bf_z.jpg`
+- [Η Microsoft εξαγοράζει το Yammer για $1.2 δισεκατομμύρια](/2012/06/26/microsoft-acquires-yammer-for-1-2-billion/) — `Microsoft-Yammer.jpeg`, `YammerInfographic-1.jpg`
+- [Το robot που σε κερδίζει πάντα στο πέτρα, ψαλίδι, χαρτί [Video]](/2012/06/27/robot-hand-beats-you-at-rock-paper-scissors/) — `3d146c99e5d1cae030d061e9f1c1f35a1.jpg`
+- [Shimi: Το ρομπότ-βάση κινητού που χορεύει [Video]](/2012/06/27/shimi-robotic-smartphone-dock-dancing/) — `shimi.jpg`, `shimi-3.jpg`
+- [Παρουσιάστηκε το Google Nexus 7 Tablet](/2012/06/28/google-nexus-7-tablet/) — `nexus7.jpg`, `Google-Nexus-71.jpg`, `Google-Nexus-72.png`
+- [Το Skydiving Demo του Project Glass για το Google I/O 2012 [Video]](/2012/06/28/skydiving-demo-project-glass-io-2012/) — `Google-Glasses-Explorer.png`
+- [Διαθέσιμος ο Google Chrome για iPad και iPhone](/2012/06/29/google-chrome-on-ipad-and-iphone/) — `Chrome-iOS-App.jpg`
+- [Eco-amp: Χάρτινος ενισχυτής ήχου για το iPhone](/2012/07/01/eco-amp-iphone-amplifier/) — `eco-made-3.jpg`
+- [Το Facebook ίσως προσθέσει το πλήκτρο “Want”](/2012/07/01/facebook-may-add-want-button/) — `facebook-want-button1.png`
+- [Google Now vs Siri voice search [Video]](/2012/07/02/google-now-vs-siri-voice-search-video/) — `Google-Now.jpg`
+- [Sanwa: Δείτε 3D videos στο Youtube με το iPhone](/2012/07/02/iphone-3d-youtube-viewer/) — `Sanwa-iPhone-3D-Viewer.jpg`
+- [Νεο ρεκόρ Guinness στην πίστα των Hot Wheels [Video]](/2012/07/03/hot-wheels-vertical-loop-track-new-guinness-world-record/) — `Hot-Wheels.jpg`
+- [Τα Windows 8 θα είναι τα φθηνότερα Windows](/2012/07/03/windows-8-is-the-cheapest-windows/) — `Windows-8-Logo-Wallpaper.jpg`
+- [Αυξάνονται οι φήμες για iPad mini τον Οκτώβριο](/2012/07/05/ipad-mini-in-october/) — `ipad-mini.jpg`
+- [L8 SmartLight: Φωτεινό σύστημα ειδοποιήσεων για smartphone και PC](/2012/07/06/l8-smartlight-notification-system/) — `L8-SmartLight-SoundLess-Speaker.jpg`
+- [Η DARPA κατασκευάζει camera με ανάλυση εως 50 gigapixels](/2012/07/07/darpa-gigapixel-camera/) — `gigapixel_camera.jpg`
+- [Federico Ciccarese: iPhone Spider Concept [Video]](/2012/07/09/federico-ciccarese-iphone-spider-concept/) — `iPhone-spider.jpg`
+- [Η FIFA ενέκρινε την χρήση της έξυπνης μπάλας Select iBall [Video]](/2012/07/10/fifa-approves-select-iball/) — `Select-iBall1.jpg`
+- [Παίξε μουσική σκανάροντας barcodes [Video]](/2012/07/11/barcode-band/) — `barcodeband.png`
+- [Gymkhana 5: Ο Ken Block αναστατώνει τους ήσυχους δρόμους του San Francisco [Video]](/2012/07/12/ken-block-gymkhana-5-san-francisco/) — `gk5-bay-bridge-32_gallery_main1.jpg`
+- [Eye control system που σου επιτρέπει να παίζεις ‘Pong’ και να γράφεις email [Video]](/2012/07/13/eye-control-system/) — `eye-tracking-research.jpg`
+- [Office 2013 Preview διαθέσιμα για download](/2012/07/17/microsoft-office-2013-preview-available-for-download/) — `office-2013-logo.jpg`
+- [Ελικοπτεράκια χρησιμοποιούν καταγραφή κίνησης για να πετούν σε σχηματισμό [Video]](/2012/07/17/quadcopters-use-motion-capture-to-fly-in-formation/) — `Quadcopter.png`
+- [Επισκεφθείτε την Ανταρκτική μέσω Google Maps [Video]](/2012/07/18/google-maps-visits-antarctica/) — `Picture_2_32_610x329.png`
+- [Digilympics: Ψηφιακοί Ολυμπιακοί αγώνες με Lego και Twitter](/2012/07/19/digilympics-olympic-games-with-lego-and-twitter/) — `3-11386621.jpg`
+- [LittleBits: Ενώστε μικρά κομμάτια και δημιουργήστε τα δικά σας gadget [Video]](/2012/07/19/littlebits-snap-together-your-gadgets/) — `LittleBits2.jpg`
+- [POP: Πανίσχυρη φορητή συσκευή φόρτισης 25,000 mAh](/2012/07/20/pop-25000-mah-battery-pack/) — `a2c6f8ba20d18aee2444651758199944_large.jpg`, `POP-Battery-Pack-1.jpg`
+- [5 βήματα που θα σε κάνουν ένα Youtube partner [Infographic]](/2012/07/23/5-steps-become-youtube-partner/) — `partner-youtube.jpg`, `5-Easy-Steps-To-Become-a-YouTube-Partner1.jpg`
+- [Sigma R&D: Πως το Kinect μπορεί να σε κάνει Jedi και να χρησιμοποιηθεί στην νοηματική γλώσσα [Video]](/2012/07/25/sigma-kinect-lightsaber-sign-language/) — `sigma-Kinect-lightsaber-sign-language.jpg`
+- [Google Handwrite: Αναζήτησε ότι θες γράφοντας το με τα δάκτυλα σου](/2012/08/01/google-handwrite/) — `handwrite.png`
+- [Facebook Stories: Αξιοσημείωτες ιστορίες και ιδέες από ανθρώπους ανά τον κόσμο](/2012/08/02/facebook-stories/) — `Facebook-Stories.png`
+- [Το Ολυμπιακό Πάρκο του Λονδίνου φτιαγμένο από 250,000 κομμάτια Lego [Video]](/2012/08/02/lego-olympic-park-constructed-from-250000-bricks/) — `lego-olympic-park1.jpg`
+- [Usain Bolt εναντίον Βαρύτητας](/2012/08/14/usain-bolt-vs-gravity/) — `688548-usain-bolt.jpg`
+- [Gameklip: Παίξε Android παιχνίδια με το χειριστήριο του PS3](/2012/08/18/gameklip-android-games-ps3-controller/) — `GameKlip.jpeg`
+- [Oculus Rift: Βυθίστε τον εαυτό σας στο παιχνίδι](/2012/08/20/oculus-rift/) — `Oculus-Rift1.jpg`
+- [Φουσκωτά robots και βραχίονες από την iRobot](/2012/08/23/irobot-inflatable-robots/) — `Inflatable-robot1.jpg`, `inflaty_walkywalk-1345627710567.jpg`
+- [Το νέο logo της Microsoft [Video]](/2012/08/24/microsofts-new-logo-video/) — `Microsoft-New-Logo1.jpg`, `LogoParts.jpg`
+- [Μουσική με τους μύες του Terry Crews από την Old Spice [Video]](/2012/08/30/old-spice-muscle-music/) — `Old-Spice-Muscle-Music-620x313.png`, `Old-Spice-Muscle-Keyboard-Controls.jpeg`
+- [Instacube: Μια υπέροχη ψηφιακή κορνίζα για το Instagram](/2012/09/03/instacube-photo-frame-instagram/) — `instacube20-100001305-large.png`
+- [3D προβολή που σε βάζει στον κόσμο του Pac-Man](/2012/09/07/3d-pacman/) — `3D-Pacman.jpg`
+- [Η Apple δεν ανακοινώνει απολύτως τίποτα στο iPhone 5 event [Παρωδία]](/2012/09/12/apple-announces-nothing/) — `Apple-nothing.png`
+- [Popinator: Εκτοξεύει το popcorn κατευθείαν στο στόμα σου [Video]](/2012/09/18/popinator-popcorn/) — `Popinator.png`
+- [Bar robot φτιάχνει τα cocktails για σένα [Video]](/2012/10/17/bar-robot/) — `inebreato-100001893-large.jpg`
+- [Κινούμενο GIF εξηγεί πως δουλεύουν τα κλειδιά](/2013/01/26/how-keys-work/) — `key1.png`
+- [Η καινούργια διαφήμιση του Internet Explorer με γεύση από 90s](/2013/01/27/internet-explorer-child-of-90s/) — `ie90s.png`
+- [E-Inkey keyboard concept: Ίσως το καλύτερο πληκτρολόγιο ever](/2013/02/02/e-inkey-keyboard-concept/) — `e-inkey3.png`
+- [Paperman: Η πρωτοποριακή ταινία μικρού μήκους της Disney](/2013/02/02/paperman-disney-movie/) — `paperman.jpg`
+- [Η GoDaddy μας παρουσιάζει τον πιο τυχερό σπασίκλα του κόσμου](/2013/02/06/godaddy-super-bowl-nerd-ad/) — `godaddy.png`
+- [Ανακοινώθηκαν τα επίσημα νούμερα της αποστολής Red Bull Stratos](/2013/02/06/red-bull-stratos-official-numbers/) — `felix-baumgartner.png`
+- [Όταν 500 κύβοι του Rubik γίνονται έργο τέχνης [Video]](/2013/02/16/500-rubik-cubes-stop-motion-art/) — `rubiks-cube.jpg`
+- [Το Tetris ζωντανεύει με ένα πίνακα και κιμωλίες](/2013/05/08/tetris-stop-motion-chalk/) — `tetris-chalk.png`
+- [Ο καφές στο διάστημα έγινε ακόμη καλύτερος](/2013/05/09/space-coffee-got-better-rice-university/) — `space-coffee.png`
+- [Το JamStik μετατρέπει το iPad/iPhone σου σε κιθάρα](/2013/05/10/jamstik-turn-iphone-ipad-into-guitar/) — `JamStikHolding.jpg`
+- [Παίξτε το Atari Breakout στο Google Image Search](/2013/05/17/play-atari-breakout-google-image-search/) — `atari-breakout.png`
+- [Όταν η μαγεία εισέρχεται στον κόσμο των Angry Birds [Video]](/2013/05/19/angry-birds-seasons-magic-update/) — `angry-birds-magic.png`
+- [Απίστευτο δωμάτιο με arcade games [Pics]](/2013/05/25/video-arcade-room/) — `mQQbQaq.jpg`, `bRKoJe3.jpg`, `EgXJn0Q.jpg`, `JWn40N4.jpg`, `MulFRtf.jpg`, `P17I4M2.jpg`, `PuJBIXV.jpg`, `qXn3aY4.jpg`
+- [Drive Awake app: Σε κρατάει ξύπνιο ενώ οδηγάς](/2013/05/27/drive-awake-ios-app/) — `ku-xlarge.jpg`
+- [Ο φωτογράφος με το Google Glass [Video]](/2013/05/27/google-glass-photographer/) — `Google-Glass.jpg`
+- [DomiCopter: Η Domino’s pizza απογειώνει το delivery](/2013/06/07/domicopter-dominos-pizza-delivery/) — `domicopter.png`
+- [Φάρσα με live επεξεργασία στο photoshop [Video]](/2013/06/10/photoshop-live-prank/) — `Adobe-Creative-Days.png`
+- [10 χαρακτηριστικά του iOS 7 που πρέπει να γνωρίζετε](/2013/06/12/10-ios-7-features/) — `iOS-7-Features.jpg`, `Notification-Center.jpg`, `ios-multitasking.jpg`, `iOS-7-iCloud-Keychain.jpg`, `Screen-Shot-2013-06-11-at-12.11.33-PM.png`, `iOS-7-in-the-Car-Daft.jpg`, `Screen-Shot-2013-06-11-at-12.13.01-PM.png`, `iOS-7-Text-blocking.jpg`, `ioS-7-Camera-App.jpg`, `Weather-App.jpg`
+- [Ζώνη εγκυμοσύνης για μελλοντικούς μπαμπάδες](/2013/06/14/huggies-pregnancy-belt/) — `pregnancy-belt.png`
+- [Ο John McAfee μας δείχνει τον δικό του τρόπο απεγκατάστασης του antivirus](/2013/06/20/john-mcafee-how-to-uninstall-antivirus/) — `mcafee.jpg`
+- [Κυκλοφόρησε το trailer της ταινίας για τη ζωή του Steve Jobs](/2013/06/21/steve-jobs-movie-trailer/) — `Steve-Jobs-movie.jpg`
+- [Διαγωνισμός: Κερδίστε 2 Google Chromecasts](/2014/10/26/win-2-google-chromecast/) — `Chromecast.jpg`
+- [Dexmo: Εξωσκελετός χεριού για τον απόλυτο έλεγχο robot](/2014/10/27/dexmo-exoskeleton-control-robot/) — `02e30c77ae8c33638ae6a756c150f7cc_large.jpg`
+- [Lo-Fi SES: Φτιάξε εύκολα τη δική σου chiptune μουσική](/2014/10/27/lo-fi-ses-make-your-own-chiptube-music/) — `Lo-Fi-SES.jpg`
+- [Τα Windows 93 είναι διασκεδαστικά κι ας μην υπήρξαν ποτέ](/2014/10/28/windows-93-fun/) — `Windows-93-1024x497.png`
+- [Η Fifa αποκαλύπτει το logo του World Cup 2018 από το διάστημα](/2014/10/29/fifa-unveils-2018-world-cup-logo-from-space/) — `world-cup-logo.jpg`
+- [Οι ήχοι της NASA στο Soundcloud](/2014/10/29/nasa-soundcloud/) — `Nasa.jpg`
+- [Η Nintendo επιστρέφει στα κέρδη χάρη στο Super Smash Bros.](/2014/10/29/nintendo-profits-thanks-to-super-smash-bros/) — `Super-Smash-Bros.png`
+- [Ψάξε στο Bing.com χρησιμοποιώντας Emoji](/2014/10/29/search-bing-emoji/) — `Bing-emoji-1024x787.png`
+- [Microsoft Band: Επίσημα το πρώτο Fitness Band της Microsoft](/2014/10/30/microsoft-fitness-band/) — `Microsoft-Band.png`, `band_gif.gif`
+- [Το Youtube τώρα υποστηρίζει Video στα 60FPS](/2014/10/30/youtube-supports-video-at-60fps/) — `Youtube-60FPS.png`
+- [Το Ambulance Drone μπορεί να πετάξει και να σώσει ζωές](/2014/11/01/ambulance-drone-first-aid/) — `Ambulance-Drone.png`
+- [Hardcore: Η πρώτη first-person action ταινία](/2014/11/05/hardcore-first-person-action-movie/) — `hardcore.png`, `hardcorecamera.0.jpg`
+- [Aeromobil: Παρουσιάστηκε το απόλυτο ιπτάμενο αυτοκίνητο](/2014/11/08/aeromobil-flying-car/) — `Aeromobil2_5-hero.jpg`
+- [Amazon Echo: Το ηχείο που υπακούει στις διαταγές σου](/2014/11/08/amazon-echo-speaker/) — `141106140320-amazon-echo-620xa.jpg`
+- [Τεχνολογία 3D audio από τη Microsoft για την καθοδήγηση τυφλών](/2014/11/08/microsoft-3d-audio-technology-help-blind-people/) — `indepedence_day.png`
+- [Star Wars episode VII με την ονομασία ‘The Force Awakens’](/2014/11/08/star-wars-episode-vii-the-force-awakens/) — `star-wars-the-force-awakens-1024x537.jpg`
+- [Everykey: Όλοι οι κωδικοί αποθηκευμένοι στον καρπό σου](/2014/11/09/everykey-wristband/) — `screen-shot-2014-11-07-at-3-04-40-pm1.png`
+- [Στείλε video cards στο Facebook με το Say Thanks](/2014/11/13/facebook-say-thanks/) — `saythanks.png`
+- [Οι πλανήτες του ηλιακού μας συστήματος ως φρούτα](/2014/11/17/solar-system-planets-as-fruits/) — `15783348542_74ecfc26ae_z.jpg`
+- [Ο Ken Block με Ford Mustang στο Gymkhana Seven](/2014/11/18/ken-block-with-ford-mustang-on-gymkhana-seven/) — `brenda_priddy_Ken-Block2-sm.jpg`
+- [Μετά το Snapchat, το Snapcash](/2014/11/18/snapcash/) — `Snap-Money.jpg`
+- [Το νέο sudoku είναι το 0h h1](/2014/11/19/0h-h1/) — `0h-h1.png`
+- [Pixactly: Το quiz των pixels](/2014/11/19/pixactly-pixels-quiz/) — `pixel.gif`
+- [Πως να διπλώσετε το καλύτερο χάρτινο αεροπλανάκι](/2014/11/20/how-to-fold-world-record-paper-airplane/) — `make-easy-paper-airplanes-nakamura-lock-spy-plane.1280x600-1024x480.jpg`
+- [Το twitter επιτρέπει την αποστολή των tweets μέσω direct messages](/2014/11/21/tweets-through-direct-messages/) — `sharetweetDM_256co.gif`
+- [LEGO Batman vs Superman σε stop motion](/2014/11/24/lego-batman-vs-superman-stop-motion/) — `15642718429_3ba7e6e177_z.jpg`
+- [Έπεσαν οι πωλήσεις του Samsung Galaxy S5](/2014/11/25/samsung-galaxy-s5-sales-40-percent-down/) — `SM-G900F_electric-BLUE_02-1024x938.jpg`
+- [Dubike: Smart Bike από το Baidu](/2014/11/26/baidu-dubike/) — `baidu-dubike-2014-11-26-02.jpg`
+- [Το Gagnam style έσπασε τους μετρητές του YouTube](/2014/12/07/gagnam-style-broke-youtube-counter/) — `wpid-wp-1417911158601.png`

@@ -1,0 +1,36 @@
+# Decap CMS – the editor at congeo.gr/admin
+backend:
+  name: github
+  repo: congeo13/congeo-blog   # change here if the repository lives elsewhere
+  branch: main
+
+locale: el
+site_url: https://www.congeo.gr
+display_url: https://www.congeo.gr
+logo_url: /theme/logo-icon-1.png
+
+media_folder: src/uploads
+public_folder: /uploads
+
+collections:
+  - name: posts
+    label: Άρθρα
+    label_singular: Άρθρο
+    folder: src/posts
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sortable_fields: [date, title]
+    view_filters:
+      - { label: "2012", field: date, pattern: "2012" }
+      - { label: "2013", field: date, pattern: "2013" }
+      - { label: "2014", field: date, pattern: "2014" }
+    fields:
+      - { label: Τίτλος, name: title, widget: string }
+      - { label: Ημερομηνία, name: date, widget: datetime, date_format: "DD/MM/YYYY", time_format: false, format: "YYYY-MM-DD" }
+      - label: Κατηγορίες
+        name: categories
+        widget: select
+        multiple: true
+        required: false
+        options: [Apple, Auto, Computers, Facebook, Fun, Gadgets, Games, Google, Internet, Mobile, Movies, Smartphones, Social, Tech, Videos]
+      - { label: Κείμενο, name: body, widget: markdown }

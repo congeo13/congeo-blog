@@ -1,0 +1,11 @@
+---
+layout: base.njk
+pagination:
+  data: collections.posts
+  size: 10
+  alias: items
+permalink: "{% if pagination.pageNumber == 0 %}/{% else %}/page/{{ pagination.pageNumber + 1 }}/{% endif %}"
+eleventyExcludeFromCollections: true
+---
+{% set pageNum = pagination.pageNumber + 1 %}{% set pages = pagination.pages.length %}{% set base = "/" %}
+{% include "list.njk" %}

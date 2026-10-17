@@ -1,0 +1,5 @@
+---
+permalink: /search.json
+eleventyExcludeFromCollections: true
+---
+[{% for p in collections.posts %}{"t":{{ p.data.title | jsonify | safe }},"u":"{{ p.url }}","d":"{{ p.date | dmy }}","x":{{ p.content | stripHtml | jsonify | safe }}}{% if not loop.last %},{% endif %}{% endfor %}]

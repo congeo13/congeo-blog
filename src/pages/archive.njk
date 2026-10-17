@@ -1,0 +1,20 @@
+---
+layout: base.njk
+title: Αρχείο
+permalink: /archive/
+eleventyExcludeFromCollections: true
+---
+<div class="post-wrapper"><div class="post-area">
+  <div class="post-heading"><h1>Αρχείο</h1></div>
+  <div class="cb"><hr class="post-sep"></div>
+  <div class="post-content page-body">
+    <h3>Pages:</h3>
+    <ul><li><a href="/archive/">Αρχείο</a></li><li><a href="/contact/">Επικοινωνία</a></li></ul>
+    <h3>By Month:</h3>
+    <div class="chips">{% for m in collections.months %}<a href="{{ m.url }}">{{ m.ym | monthName }} ({{ m.count }})</a>{% endfor %}</div>
+    <h3>By Category:</h3>
+    <div class="chips">{% for m in site.menu %}<a href="/{{ m.slug }}/">{{ m.name }}</a>{% endfor %}</div>
+    <h3>Όλα τα άρθρα ({{ collections.posts.length }}):</h3>
+    <ul>{% for p in collections.posts %}<li><span class="d">{{ p.date | dmy }}</span><a href="{{ p.url }}">{{ p.data.title }}</a></li>{% endfor %}</ul>
+  </div>
+</div></div>

@@ -1,0 +1,32 @@
+# Old WordPress addresses -> new ones
+/feed                     /feed.xml          200
+/feed/                    /feed.xml          200
+/   s=:q                  /search/?s=:q      301
+/αρχείο/*                 /archive/          301
+/επικοινωνία/*            /contact/          301
+/category/auto/*          /auto/             301
+/category/computers/*     /computers/        301
+/category/fun/*           /fun/              301
+/category/gadgets/*       /gadgets/          301
+/category/games/*         /games/            301
+/category/internet-2/*    /internet/         301
+/category/mobile/*        /mobile/           301
+/category/movies/*        /movies/           301
+/category/social/*        /social/           301
+/category/technology/*    /tech/             301
+/category/*               /                  301
+/tag/apple/*              /apple/            301
+/tag/facebook/*           /facebook/         301
+/tag/google/*             /google/           301
+/tag/videos/*             /videos/           301
+/tag/videos-2/*           /videos/           301
+/tag/*                    /                  301
+/author/*                 /                  301
+/robotics/*               /tech/             301
+/robotic-hand/*           /tech/             301
+/ishikawa-oku-lab/*       /tech/             301
+/wp-admin/*               /admin/            301
+/wp-login.php             /admin/            301
+
+/2014/12/06/3d-holograms-που-μπορείς-να-τα-αισθανθείς/       /2014/12/06/3d-holograms-you-can-feel/                       301
+/2012/03/30/τυφλός-οδηγεί-το-self-driving-car-της-google/    /2012/03/30/blind-mandrives-google-self-driving-car/         301

@@ -1,0 +1,14 @@
+---
+layout: base.njk
+pagination:
+  data: collections.categoryPages
+  size: 1
+  alias: cp
+permalink: "{{ cp.base }}{% if cp.page > 1 %}page/{{ cp.page }}/{% endif %}"
+eleventyComputed:
+  title: "{{ cp.name }}"
+  activeCat: "{{ cp.slug }}"
+eleventyExcludeFromCollections: true
+---
+{% set items = cp.items %}{% set pageNum = cp.page %}{% set pages = cp.pages %}{% set base = cp.base %}{% set heading = cp.name %}
+{% include "list.njk" %}

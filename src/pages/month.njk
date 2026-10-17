@@ -1,0 +1,13 @@
+---
+layout: base.njk
+pagination:
+  data: collections.monthPages
+  size: 1
+  alias: mp
+permalink: "{{ mp.base }}{% if mp.page > 1 %}page/{{ mp.page }}/{% endif %}"
+eleventyComputed:
+  title: "{{ mp.ym | monthName }}"
+eleventyExcludeFromCollections: true
+---
+{% set items = mp.items %}{% set pageNum = mp.page %}{% set pages = mp.pages %}{% set base = mp.base %}{% set heading = mp.ym | monthName %}
+{% include "list.njk" %}

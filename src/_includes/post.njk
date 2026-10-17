@@ -1,0 +1,20 @@
+---
+layout: base.njk
+---
+<div class="post-wrapper"><div class="post-area">
+  <div class="post-heading"><h1>{{ title }}</h1></div>
+  <div class="cb"><hr class="post-sep"></div>
+  <div class="post-meta"><b>Congeo</b> - {{ page.date | dmy }}{% if categories and categories.length %} - {% for c in categories %}<a href="/{{ c | catSlug }}/">{{ c }}</a>{% if not loop.last %}, {% endif %}{% endfor %}{% endif %}</div>
+  <div class="post-content">
+    {{ content | safe }}
+    {% if partial %}<div class="archive-note">Από αυτό το άρθρο σώθηκε στο αρχείο μόνο η αρχή του.</div>{% endif %}
+  </div>
+  <div class="cb"></div>
+  {% if site.disqusShortname %}
+  <div id="comments"><div id="disqus_thread"></div></div>
+  <script>
+    var disqus_config = function () { this.page.url = "{{ site.url }}{{ page.url }}"; this.page.identifier = "{{ page.url }}"; };
+    (function () { var d = document, s = d.createElement("script"); s.src = "https://{{ site.disqusShortname }}.disqus.com/embed.js"; s.setAttribute("data-timestamp", +new Date()); (d.head || d.body).appendChild(s); })();
+  </script>
+  {% endif %}
+</div></div>

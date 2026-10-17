@@ -1,0 +1,40 @@
+{#- Renders a page of posts plus WP-PageNavi style pagination.
+    Expects: items (posts), pageNum, pages, base (e.g. "/" or "/apple/"), optional heading -#}
+{% if heading %}<div class="list-title">{{ heading | safe }}</div>{% endif %}
+{% for p in items %}
+<div class="post-wrapper"><div class="post-area">
+  <div class="post-heading"><h2><a href="{{ p.url }}" rel="bookmark"> {{ p.data.title }} </a></h2></div>
+  <div class="cb"><hr class="post-sep"></div>
+  <div class="post-content">
+    {% set body = p.content %}
+    {% if body | length > 1500 %}
+      <p>{{ body | excerpt(450) }}</p>
+      <p><a href="{{ p.url }}" class="more-link">More…</a></p>
+    {% else %}
+      {{ body | safe }}
+    {% endif %}
+  </div>
+  <div class="cb"></div>
+</div></div>
+{% endfor %}
+{% if pages > 1 %}
+<div id="pag"><div id="pagl"><div class="wp-pagenavi">
+  <span class="pages">Page {{ pageNum }} of {{ pages }}</span>
+  {% if pageNum > 1 %}
+    {% if pageNum > 3 %}<a class="first" href="{{ base }}">« First</a>{% endif %}
+    <a class="previouspostslink" href="{% if pageNum == 2 %}{{ base }}{% else %}{{ base }}page/{{ pageNum - 1 }}/{% endif %}">«</a>
+  {% endif %}
+  {% set start = [1, pageNum - 2] | maxOf %}
+  {% set end = [pages, start + 4] | minOf %}
+  {% set start = [1, end - 4] | maxOf %}
+  {% if start > 1 %}<span class="extend">...</span>{% endif %}
+  {% for i in range(start, end + 1) %}
+    {% if i == pageNum %}<span class="current">{{ i }}</span>{% else %}<a class="page" href="{% if i == 1 %}{{ base }}{% else %}{{ base }}page/{{ i }}/{% endif %}">{{ i }}</a>{% endif %}
+  {% endfor %}
+  {% if end < pages %}<span class="extend">...</span>{% endif %}
+  {% if pageNum < pages %}
+    <a class="nextpostslink" href="{{ base }}page/{{ pageNum + 1 }}/">»</a>
+    <a class="last" href="{{ base }}page/{{ pages }}/">Last »</a>
+  {% endif %}
+</div></div><div class="cb"></div></div>
+{% endif %}
