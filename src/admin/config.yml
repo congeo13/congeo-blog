@@ -3,6 +3,7 @@ backend:
   name: github
   repo: congeo13/congeo-blog   # change here if the repository lives elsewhere
   branch: main
+  site_domain: congeo.netlify.app   # Netlify site that handles the GitHub login
 
 locale: el
 site_url: https://www.congeo.gr
